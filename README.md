@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Telegram<br><br>--> [@LeccavamoDev](https://t.me/LeccavamoDev)
+🔭 I’m currently working on Programs/Fortnite Maps<br><br>--> [@rikyexe](https://t.me/rikyexe)
 
 
 # 💻 Tech Stack:
