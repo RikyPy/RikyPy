@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rikypy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rikypy&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rikypy&icon=5&color=1)](https://github.com/RikyPy/)
 
   ## 💰 You can help me by Donating
   [All donations link](https://linktr.ee/donatetoriky)<br>[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rikyezz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rikyexe) 
